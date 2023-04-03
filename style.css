@@ -1,0 +1,32 @@
+body {
+    font-family: 'Alkatra', cursive;
+    margin: 0;
+}
+
+.anik {
+    color: blueviolet;
+}
+
+.healthy-food {
+    display: flex;
+    width: half%;
+    padding: left;
+}
+
+.link-batton {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, orange);
+    padding: 10px 10px;
+    border-radius: 5px;
+}
+
+.healthy-girl {
+    display: flex;
+    width: half%;
+    padding: :left;
+
+}
+
+.My-Recipie {
+    display: flex;
+}
